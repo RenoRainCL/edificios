@@ -1,0 +1,21 @@
+{
+    "validation_messages": {
+        "required_field": "Este campo es requerido",
+        "invalid_email": "El formato de email no es válido",
+        "invalid_rut": "El RUT ingresado no es válido",
+        "password_length": "La contraseña debe tener al menos 8 caracteres"
+    },
+    "legal_texts_chile": {
+        "ley_copropiedad": "Ley N° 19.537 sobre Copropiedad Inmobiliaria",
+        "derechos_residentes": "Derechos y obligaciones de los copropietarios",
+        "reglamento_obligatorio": "Todo edificio debe contar con reglamento de copropiedad"
+    },
+    "menu_dashboard": "Dashboard",
+    "menu_finanzas": "Finanzas",
+    "menu_gastos_comunes": "Gastos Comunes",
+    "menu_mantenimiento": "Mantenimiento",
+    "menu_amenities": "Amenities",
+    "menu_comunicaciones": "Comunicaciones",
+    "login_invalid_credentials": "Credenciales inválidas",
+    "login_account_inactive": "Cuenta inactiva"
+}
